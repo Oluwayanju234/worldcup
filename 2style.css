@@ -1,0 +1,8 @@
+body{
+    background-image: url(2ndland.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    
+}
